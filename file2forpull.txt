@@ -1,0 +1,2 @@
+Hi
+I used this file for pulling from remote repository(Github) to local
